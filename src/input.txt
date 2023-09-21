@@ -1,0 +1,53 @@
+TLDR: The key idea of the video is that AI, particularly large language models like GPT-3, has the potential to revolutionize various industries and create new opportunities, but it is important to prioritize projects that benefit humanity and ethically support affected workers.
+
+1.  AI is a general purpose technology with supervised learning and generative AI as the most important tools, and this decade is expanding on large-scale supervised learning by incorporating the exciting tool of AI genius.
+	1.1 Dr. Andrew Ng is a renowned AI expert and educator, having founded multiple AI organizations and taught millions of people worldwide, including at Stanford University.
+	1.2 AI is a general purpose technology that is useful for various applications, similar to electricity, and should be viewed as a collection of tools.
+	1.3 Supervised learning and generative AI are the two most important tools in AI, with supervised learning being effective in labeling and computing input to outputs, and generative AI being useful in applications such as online advertising, self-driving cars, ship route optimization, automated visual inspection, and restaurant review reputation monitoring.
+	1.4 Supervised learning is useful for various applications, such as labeling restaurant reviews, by collecting labeled data points and using them in a machine learning project.
+	1.5 The last decade focused on large-scale supervised learning with the use of large AI models and data, and this decade is expanding on that by incorporating the exciting tool of AI genius.
+
+2.  Large language models like GPT-3 can speed up the development of AI applications, reducing the time it takes to build them from months to just a week, leading to a flood of custom AI applications that many people underestimate.
+	2.1 Text generation in AI, such as GPT, uses supervised learning to predict the next word by mapping inputs to outputs based on large amounts of training data.
+	2.2 Large language models, like GPT-3, are not only beneficial for consumers but also for developers, as they can significantly speed up the process of building applications that previously took months to develop.
+	2.3 The process of building a commercial grade AI system, such as a restaurant review system, typically takes around six to twelve months, including obtaining labeled data, training and tuning the AI model, and ensuring robust performance.
+	2.4 AI applications that used to take months or even a year to build can now be built in a week, opening up a flood of custom AI applications that many people underestimate.
+	2.5 The speaker demonstrates how to write a sentiment classifier using Python code and OpenAI tools, successfully classifying a text as having a positive sentiment.
+
+3.  Supervised learning and AI are expected to grow exponentially in the next three years, creating opportunities for startups and large companies to create value through general-purpose technologies, although there may be temporary setbacks in the short term.
+	3.1 Supervised learning is currently the most valuable AI technology, with generative AI being a smaller but exciting new entrant, and there are also other tools available.
+	3.2 Supervised learning and AI are expected to grow exponentially in the next three years, creating opportunities for startups and large companies to create value through general-purpose technologies.
+	3.3 General purpose technologies like AI have a wide range of applications and potential, but there may be temporary setbacks in the short term.
+	3.4 Lenser and the flashlight app were good ideas but lacked long-term value because they were easily replicated, while the rise of iOS led to the creation of more innovative platforms like Uber, Airbnb, and Tinder.
+
+4.  There are exciting opportunities in AI outside of consumer software, with small-scale projects and low code/no code tools enabling industries to customize and extract value from their own data, emphasizing the advantage of distribution for incumbent companies.
+	4.1 The rise of AI presents an opportunity to create deep and valuable applications, but the adoption of AI outside of consumer software and the internet is still in its early stages due to the concentration of value in multi-billion dollar projects.
+	4.2 10-15 years ago, a recipe was developed to hire 100 engineers to create software for relevant ads, but outside of consumer software, there are exciting opportunities in other industries such as working with a pizza maker to take pictures of pizza.
+	4.3 There are numerous small-scale projects worth five million dollars each that require a different approach than hiring a large group of engineers, as they can be executed more efficiently and effectively using AI technology.
+	4.4 The AI community is developing low code and no code tools that allow users to easily customize AI systems, enabling departments to train their own AI systems and extract value from their own data.
+	4.5 Google and Bing lack access to certain pictures, so there is a need for tools that allow businesses like The Pizza Factory to create and maintain their own AI systems using their own pizza pictures, with the use of language models and Data Centric AI technology to make it more feasible and accessible for industries outside of the tech world.
+	4.6 The speaker discusses the need to pursue diverse AI opportunities by starting different companies and integrating AI into existing businesses, emphasizing the advantage of distribution for incumbent companies.
+
+5.  There are opportunities in the AI stack, particularly in developer tooling, where hyper competition exists and a chance to be a mega winner, with the success of this layer depending on the even greater success of the application layer, such as the AI-based romantic relationship coaching app, Armor Raw, which highlights exciting opportunities in using AI for relationship mentoring due to a large market with little competition.
+	5.1 There are opportunities in the AI stack, particularly in the hardware and infrastructure layers, but the speaker prefers to focus on the developer tooling layer where there is hyper competition and a chance to be one of the mega winners.
+	5.2 The success of the technology and tooling layer in AI depends on the even greater success of the application layer, as exemplified by the AI-based romantic relationship coaching app, Armor Raw.
+	5.3 There are exciting opportunities in using AI for romantic relationship mentoring, as there is a large market with relatively little competition in this area.
+
+6.  Bearing AI uses AI to make ships more fuel efficient, resulting in significant fuel savings and environmental benefits, thanks to collaboration between Mitsui, Dylan, and Andrew Ng's AI expertise.
+	6.1 The speaker shares their recipe for building startups, emphasizing the importance of transparency and access to various ideas.
+	6.2 A company called Bearing AI uses AI to make ships more fuel efficient, inspired by a suggestion from a Japanese conglomerate, and they spend a month validating the idea before approaching prospective customers.
+	6.3 Bringing on a CEO at the beginning of a project reduces the burden of knowledge transfer and validation, allowing for more efficient learning and increased chances of survival and funding.
+	6.4 Hundreds of ships are now able to steer themselves using AI, resulting in significant fuel savings and environmental benefits, thanks to the collaboration between Mitsui, Dylan, and Andrew Ng's AI expertise.
+	6.5 Engaging in startups with concrete ideas and partnering with subject matter experts leads to exciting opportunities, as it is inefficient and costly to learn about various industries at the ideation stage.
+
+7.  AI technology has the potential to eliminate commercials and improve bias and fairness, but the biggest risk is job disruption, so it's crucial to prioritize projects that benefit humanity and ethically support affected workers.
+	7.1 Eliminate commercials by automatically purchasing products advertised, as concrete ideas can be efficiently validated or falsified and provide clear direction for execution in the AI field.
+	7.2 Collaborating with individuals who have already generated good ideas but lack a partner can lead to efficient validation and building processes in the field of AI.
+	7.3 The speaker discusses the risks and social impact of AI technology and emphasizes the importance of only working on projects that benefit humanity and are ethically sound.
+	7.4 AI today has improved in terms of bias and fairness, but the biggest risk is the disruption of jobs, particularly for higher-wage workers, and it is important for society to ensure that those affected are well taken care of.
+
+8.  AI has potential for both positive and negative impacts, but with proper control and management, it can be a valuable tool in addressing real extinction risks and creating new opportunities for everyone.
+	8.1 AI has generated a lot of hype, but AGI, which can perform tasks like humans, is still decades away due to the different paths of biological and digital intelligence.
+	8.2 Large English models are smarter than humans in certain dimensions but dumber in others, and while there is hype about AI creating extinction risk, the speaker believes that AI can be controlled and managed for the benefit of humanity, and that it could even be a key part of the solution to real extinction risks such as pandemics and climate change.
+	8.3 AI as a general purpose technology creates new opportunities for everyone, and the important work ahead is to build concrete use cases and engage with more people on those opportunities.
+

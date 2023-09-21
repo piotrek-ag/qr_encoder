@@ -1,0 +1,53 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Compiled output
+out/
+target/
+build/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Logs
+*.log
+
+# Maven
+.log/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.ldb
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+*.log
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Gradle
+.gradle/
+build/
+
+# Test output
+test-output/
